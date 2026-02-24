@@ -1,3 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Hi,%20I'm%20Tilak%20M%20K%20👋&fontSize=35&fontColor=FFFFFF&fontAlign=50"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=2nd+Year+AIML+Engineering+Student+%7C+NIE+Mysore;Passionate+about+AI%2FML+%7C+Web+Dev+%7C+Automation;Building+cool+stuff+one+commit+at+a+time"/>
+</p>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&height=60&lines=Hey!+I'm+Tilak+M+K+👋;AIML+Engineering+Student;AI+%7C+ML+%7C+Web+Dev+%7C+Automation)
 
 <table>
