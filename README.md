@@ -1,24 +1,21 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Hey!+I'm+Tilak+M+K+👋;AIML+Engineering+Student;AI+%7C+ML+%7C+Web+Dev+%7C+Automation" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&height=60&lines=Hey!+I'm+Tilak+M+K+👋;AIML+Engineering+Student;AI+%7C+ML+%7C+Web+Dev+%7C+Automation)
 
-<table align="center">
+<table>
   <tr>
-    <td>
+    <td valign="center" width="60%">
 
-### Hi, I'm Tilak M K 👋
+## Hi, I'm Tilak M K 👋
 
-🎓 2nd Year AIML Engineering Student | Mysore
-🤖 Passionate about AI/ML, Web Dev & Automation
-🚀 Building cool stuff one commit at a time
+🎓 2nd Year AIML Engineering Student | Mysore  
+🤖 Passionate about AI/ML, Web Dev & Automation  
+🚀 Building cool stuff one commit at a time  
 
   </td>
-  <td>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <td valign="center" width="40%">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
   </td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
