@@ -1,27 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Hi,%20I'm%20Tilak%20M%20K%20👋&fontSize=35&fontColor=FFFFFF&fontAlign=50"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=2nd+Year+AIML+Engineering+Student+%7C+NIE+Mysore;Passionate+about+AI%2FML+%7C+Web+Dev+%7C+Automation;Building+cool+stuff+one+commit+at+a+time"/>
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&height=60&lines=Hey!+I'm+Tilak+M+K+👋;AIML+Engineering+Student;AI+%7C+ML+%7C+Web+Dev+%7C+Automation)
 
 <table>
   <tr>
     <td valign="center" width="60%">
 
 ## Hi, I'm Tilak M K 👋
+<h1>Hi, I'm Tilak M K 👋</h1>
 
-🎓 2nd Year AIML Engineering Student | NIE, Mysore
-🤖 Passionate about AI/ML, Web Dev & Automation
-🚀 Building cool stuff one commit at a time
-
+<p>
+  <img src="https://img.shields.io/badge/🎓 2nd Year AIML Student-NIE Mysore-0080FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤖 AI | ML | Web Dev-Automation-9B59B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀 Building-Cool Stuff-FF6B35?style=for-the-badge"/>
+</p>
   </td>
   <td valign="center" width="40%">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
   </td>
   </tr>
 </table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -76,5 +72,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer"/>
