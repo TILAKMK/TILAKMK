@@ -6,7 +6,7 @@
 
 ## Hi, I'm Tilak M K 👋
 
-🎓 2nd Year AIML Engineering Student | Mysore  
+🎓 2nd Year AIML Engineering Student | NIE,Mysore  
 🤖 Passionate about AI/ML, Web Dev & Automation  
 🚀 Building cool stuff one commit at a time  
 
