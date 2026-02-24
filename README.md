@@ -3,7 +3,9 @@
     <td>
 
 # Hi, I'm Tilak M K 👋
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Hey!+I'm+Tilak+M+K+👋;AIML+Engineering+Student;AI+%7C+ML+%7C+Web+Dev+%7C+Automation" />
+</p>
 🎓 2nd Year AIML Engineering Student | Mysore
 🤖 Passionate about AI/ML, Web Dev & Automation
 🚀 Building cool stuff one commit at a time
@@ -28,16 +30,16 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TILAKMK&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TILAKMK&theme=tokyonight" width="75%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TILAKMK&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TILAKMK&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TILAKMK&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TILAKMK&theme=tokyonight" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TILAKMK&theme=tokyonight" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TILAKMK&theme=tokyonight" width="24%"/>
 </p>
-
 ## 🔥 Streak
 
 <p align="center">
