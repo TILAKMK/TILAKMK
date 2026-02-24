@@ -1,9 +1,13 @@
 # Hi, I'm Tilak M K 👋
+<p align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" align="right"/>
+</p>
 
 🎓 2nd Year AIML Engineering Student | Mysore
 🤖 Passionate about AI/ML, Web Dev & Automation
 🚀 Building cool stuff one commit at a time
 
+<br clear="right"/>
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
