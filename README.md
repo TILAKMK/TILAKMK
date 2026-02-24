@@ -5,16 +5,17 @@
     <td valign="center" width="60%">
 
 ## Hi, I'm Tilak M K 👋
-![Student](https://img.shields.io/badge/🎓_2nd_Year_AIML-NIE_Mysore-blue?style=flat-square)
-![Passion](https://img.shields.io/badge/🤖_Passionate_about-AI/ML_|_Web_Dev-purple?style=flat-square)
-![Builder](https://img.shields.io/badge/🚀_Building-Cool_Stuff-orange?style=flat-square)
+
+🎓 2nd Year AIML Engineering Student | Mysore  
+🤖 Passionate about AI/ML, Web Dev & Automation  
+🚀 Building cool stuff one commit at a time  
+
   </td>
   <td valign="center" width="40%">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
   </td>
   </tr>
 </table>
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
