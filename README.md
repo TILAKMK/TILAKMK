@@ -1,4 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&height=60&lines=Hey!+I'm+Tilak+M+K+👋;AIML+Engineering+Student;AI+%7C+ML+%7C+Web+Dev+%7C+Automation)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Hi,%20I'm%20Tilak%20M%20K%20👋&fontSize=35&fontColor=FFFFFF&fontAlign=50"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=2nd+Year+AIML+Engineering+Student+%7C+NIE+Mysore;Passionate+about+AI%2FML+%7C+Web+Dev+%7C+Automation;Building+cool+stuff+one+commit+at+a+time"/>
+</p>
 
 <table>
   <tr>
@@ -6,9 +10,9 @@
 
 ## Hi, I'm Tilak M K 👋
 
-🎓 2nd Year AIML Engineering Student | NIE,Mysore  
-🤖 Passionate about AI/ML, Web Dev & Automation  
-🚀 Building cool stuff one commit at a time  
+🎓 2nd Year AIML Engineering Student | NIE, Mysore
+🤖 Passionate about AI/ML, Web Dev & Automation
+🚀 Building cool stuff one commit at a time
 
   </td>
   <td valign="center" width="40%">
@@ -16,6 +20,7 @@
   </td>
   </tr>
 </table>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -23,11 +28,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -71,3 +76,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer"/>
