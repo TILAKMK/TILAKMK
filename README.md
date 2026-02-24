@@ -5,13 +5,9 @@
     <td valign="center" width="60%">
 
 ## Hi, I'm Tilak M K 👋
-<h1>Hi, I'm Tilak M K 👋</h1>
-
-<p>
-  <img src="https://img.shields.io/badge/🎓 2nd Year AIML Student-NIE Mysore-0080FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🤖 AI | ML | Web Dev-Automation-9B59B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚀 Building-Cool Stuff-FF6B35?style=for-the-badge"/>
-</p>
+![Student](https://img.shields.io/badge/🎓_2nd_Year_AIML-NIE_Mysore-blue?style=flat-square)
+![Passion](https://img.shields.io/badge/🤖_Passionate_about-AI/ML_|_Web_Dev-purple?style=flat-square)
+![Builder](https://img.shields.io/badge/🚀_Building-Cool_Stuff-orange?style=flat-square)
   </td>
   <td valign="center" width="40%">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
