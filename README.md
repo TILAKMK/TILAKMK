@@ -90,14 +90,13 @@ A modern, responsive portfolio website showcasing my projects, skills, and journ
 <a href="https://github.com/TILAKMK/LeetCode-Clone">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=LeetCode-Clone&theme=tokyonight" />
 </a>
-
 <a href="https://github.com/TILAKMK/tilakmk.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=Portfolio&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=tilakmk.github.io&theme=tokyonight" />
 </a>
+
 <a href="https://github.com/TILAKMK/new_Job">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=Job Portal&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=new_Job&theme=tokyonight" />
 </a>
-</p>
 
 ---
 
