@@ -80,7 +80,7 @@ A modern, responsive portfolio website showcasing my projects, skills, and journ
 <p align="center">
 
 <a href="https://github.com/TILAKMK/NIE-ClassPulse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=book1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=NIE-ClassPulse&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/TILAKMK/n8n-ai-resume-builder">
@@ -92,10 +92,10 @@ A modern, responsive portfolio website showcasing my projects, skills, and journ
 </a>
 
 <a href="https://github.com/TILAKMK/tilakmk.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=TILAKMK&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=Portfolio&theme=tokyonight" />
 </a>
 <a href="https://github.com/TILAKMK/new_Job">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=LeetCode-Clone&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=Job Portal&theme=tokyonight" />
 </a>
 </p>
 
