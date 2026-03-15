@@ -50,7 +50,6 @@
 </p>
 
 ---
-
 ![snake gif](https://raw.githubusercontent.com/TILAKMK/TILAKMK/output/github-contribution-grid-snake.svg)
 ## 🚀 Featured Projects
 
