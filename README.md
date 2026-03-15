@@ -50,9 +50,9 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/TILAKMK/TILAKMK/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/TILAKMK/TILAKMK/blob/output/github-contribution-grid-snake.svg)
 ## 🚀 Featured Projects
 
 - 📚 [Book Manager](https://github.com/TILAKMK/book1) - Django CRUD book management system
