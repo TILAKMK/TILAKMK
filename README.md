@@ -73,11 +73,40 @@ A modern, responsive portfolio website showcasing my projects, skills, and journ
 
 ---
 ![snake gif](https://raw.githubusercontent.com/TILAKMK/TILAKMK/output/github-contribution-grid-snake.svg)
+---
+
 ## 🚀 Featured Projects
 
-- 📚 [Book Manager](https://github.com/TILAKMK/book1) - Django CRUD book management system
-- 🤖 [AI Resume Builder](https://github.com/TILAKMK/n8n-ai-resume-builder) - n8n powered resume builder
-- ⚖️ [LeetCode Clone](https://github.com/TILAKMK/LeetCode-Clone) - Built with Python
+### 📚 Book Manager
+A Django CRUD book management system.
+
+<p>
+  <a href="https://github.com/TILAKMK/book1">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🤖 AI Resume Builder
+An automated resume builder powered by n8n workflows.
+
+<p>
+  <a href="https://github.com/TILAKMK/n8n-ai-resume-builder">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚖️ LeetCode Clone
+A coding practice platform built with Python.
+
+<p>
+  <a href="https://github.com/TILAKMK/LeetCode-Clone">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
