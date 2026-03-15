@@ -77,43 +77,9 @@ A modern, responsive portfolio website showcasing my projects, skills, and journ
 
 ## 🚀 Featured Projects
 
-### 📚 Book Manager
-A Django CRUD book management system.
-
-<p>
-  <a href="https://github.com/TILAKMK/book1">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🤖 AI Resume Builder
-An automated resume builder powered by n8n workflows.
-
-<p>
-  <a href="https://github.com/TILAKMK/n8n-ai-resume-builder">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### ⚖️ LeetCode Clone
-A coding practice platform built with Python.
-
-<p>
-  <a href="https://github.com/TILAKMK/LeetCode-Clone">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-## 🚀 Featured Projects
-
 <p align="center">
 
-<a href="https://github.com/TILAKMK/book1">
+<a href="https://github.com/TILAKMK/NIE-ClassPulse">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=book1&theme=tokyonight" />
 </a>
 
@@ -125,27 +91,15 @@ A coding practice platform built with Python.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=LeetCode-Clone&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/TILAKMK/TILAKMK">
+<a href="https://github.com/TILAKMK/tilakmk.github.io">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=TILAKMK&theme=tokyonight" />
 </a>
-
+<a href="https://github.com/TILAKMK/new_Job">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=LeetCode-Clone&theme=tokyonight" />
+</a>
 </p>
 
 ---
-
-## 🌐 Personal Portfolio
-
-<p align="center">
-
-<a href="https://tilakmk.github.io">
-<img src="https://img.shields.io/badge/🚀 LIVE%20PORTFOLIO-tilakmk.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TILAKMK/TILAKMK">
-<img src="https://img.shields.io/badge/💻 REPOSITORY-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
 
 
 ## 📫 Connect with me
