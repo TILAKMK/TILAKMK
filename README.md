@@ -109,6 +109,44 @@ A coding practice platform built with Python.
 </p>
 
 ---
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/TILAKMK/book1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=book1&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/TILAKMK/n8n-ai-resume-builder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=n8n-ai-resume-builder&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/TILAKMK/LeetCode-Clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=LeetCode-Clone&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/TILAKMK/TILAKMK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TILAKMK&repo=TILAKMK&theme=tokyonight" />
+</a>
+
+</p>
+
+---
+
+## 🌐 Personal Portfolio
+
+<p align="center">
+
+<a href="https://tilakmk.github.io">
+<img src="https://img.shields.io/badge/🚀 LIVE%20PORTFOLIO-tilakmk.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TILAKMK/TILAKMK">
+<img src="https://img.shields.io/badge/💻 REPOSITORY-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
 
 ## 📫 Connect with me
 
