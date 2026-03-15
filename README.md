@@ -50,6 +50,29 @@
 </p>
 
 ---
+---
+
+## 🌐 Personal Portfolio
+
+<div align="left">
+
+### Personal Portfolio - tilakmk.github.io
+
+A modern, responsive portfolio website showcasing my projects, skills, and journey in tech.
+
+<p>
+  <a href="https://tilakmk.github.io">
+    <img src="https://img.shields.io/badge/LIVE%20SITE-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/TILAKMK/TILAKMK">
+    <img src="https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
 ![snake gif](https://raw.githubusercontent.com/TILAKMK/TILAKMK/output/github-contribution-grid-snake.svg)
 ## 🚀 Featured Projects
 
