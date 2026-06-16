@@ -8,7 +8,7 @@
 
 🎓 2nd Year AIML Engineering Student | Mysore  
 🤖 Passionate about AI/ML, Web Dev & Automation  
-🚀 Building cool stuff one commit at a time    
+🚀 Building cool stuff one commit at a time 
 
   </td>
   <td valign="center" width="40%">
